@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiControlTest", "GuiControlTest\GuiControlTest.csproj", "{21012BDE-57A4-41C2-B54D-854437DCFD75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21012BDE-57A4-41C2-B54D-854437DCFD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21012BDE-57A4-41C2-B54D-854437DCFD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21012BDE-57A4-41C2-B54D-854437DCFD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21012BDE-57A4-41C2-B54D-854437DCFD75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3586594F-20CE-43B5-80A4-626EE062C70D}
+	EndGlobalSection
+EndGlobal
