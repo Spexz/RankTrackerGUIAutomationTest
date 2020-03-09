@@ -18,6 +18,7 @@ namespace GuiControlTest
                 RankTrackerProcess();
             }));
 
+
             t.SetApartmentState(ApartmentState.STA);
             t.Start();
             t.Join();
